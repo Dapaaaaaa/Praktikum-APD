@@ -1,6 +1,6 @@
 nama = str(input("Masukan nama : "))
 umur = int(input("Masukan umur : "))
-jk_input = bool(input("Masukan jenis kelamin (0 = laki-laki, 1 = perempuan) : "))
+jk_input = int(input("Masukan jenis kelamin (0 = laki-laki, 1 = perempuan) : "))
 jk = bool(jk_input)
 gender = "laki-laki" if not jk else "perempuan"
 tb = float(input("Masukan tinggi badan : "))
