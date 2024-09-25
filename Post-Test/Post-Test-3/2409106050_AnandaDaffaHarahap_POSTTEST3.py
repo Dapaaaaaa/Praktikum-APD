@@ -62,7 +62,7 @@ if menu == 1: # Menu kubus
         print("Maaf tidak ada pilihan ini".center(width))
         print("=" * width)
 
-    # blok kode ini untuk membuat screen atau layar mati atau clear dalam 5 detik
+    # blok kode ini untuk membuat screen atau layar mati atau clear dalam 2 detik
     sleep(2)
 
     # Ini untuk menjalankan perintah clear screen untuk terminal setekah sleep
