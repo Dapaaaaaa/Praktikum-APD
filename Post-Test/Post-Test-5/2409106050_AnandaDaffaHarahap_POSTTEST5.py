@@ -228,7 +228,7 @@ while login == "y":
                                 else:
                                     print("Nomor yang Anda masukkan tidak valid!")
 
-                            elif pilihan == "4":  # Kembali ke menu utama
+                            elif pilihan == "4":
                                 cobapilihan = "n"
                                 balikmenu = "y"
 
